@@ -1,0 +1,4 @@
+if (my=0){
+system.out.println("You are stupidoso")
+}else{
+System.out.println("Good lord");
